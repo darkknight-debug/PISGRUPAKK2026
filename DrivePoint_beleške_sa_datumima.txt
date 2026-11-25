@@ -1,0 +1,18 @@
+DRIVEPOINT – BELEŠKE O DOSADAŠNJEM RADU
+
+18.11.2026.
+- Razrađena je poslovna ideja firme DrivePoint, koja se bavi iznajmljivanjem i servisiranjem vozila.
+- Definisani su osnovni podaci o firmi, lokacija, slogan, organizacija, zaposleni, vozni park i usluge.
+- Napravljen je dokument „Poslovni zahtev“, sa opisom poslovanja, ciljevima, procesima, troškovima, prihodima i marketingom.
+- Izrađen je plan aktivnosti projekta, raspoređen po nedeljama.
+
+20.11.2026.
+- Pripremljen je GitHub repozitorijum za rad grupe.
+- Pripremljena je poruka profesoru uz slanje linka ka repozitorijumu i planu aktivnosti.
+
+24–25.11.2026.
+- Izrađena je početna definicija projekta (IDF 0).
+- Dokument je proširen opisom poslovnih procesa, korisničkih uloga, podataka, poslovnih pravila, statusa i izveštaja.
+- Razrađeni su osnovni zahtevi i obim budućeg informacionog sistema.
+
+Ovo predstavlja pregled dosadašnjeg rada na projektu DrivePoint.
