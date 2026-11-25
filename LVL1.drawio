@@ -1,0 +1,85 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="Mrsjmd64Ao3vAl3pA5HH">
+    <mxGraphModel dx="817" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-5" edge="1" parent="1" source="FAdu7yA-0AXUuAB9ZVep-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="FAdu7yA-0AXUuAB9ZVep-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Musterija" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-14" edge="1" parent="1" source="FAdu7yA-0AXUuAB9ZVep-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="FAdu7yA-0AXUuAB9ZVep-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="1.Rentiranje automobila" vertex="1">
+          <mxGeometry height="80" width="120" x="410" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-20" edge="1" parent="1" source="FAdu7yA-0AXUuAB9ZVep-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="FAdu7yA-0AXUuAB9ZVep-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="2.Servisiranje sluzbenih automobila" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="iznamljivanje_vozila" vertex="1">
+          <mxGeometry height="30" width="130" x="270" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-8" edge="1" parent="1" source="FAdu7yA-0AXUuAB9ZVep-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="FAdu7yA-0AXUuAB9ZVep-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zakupodavac" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="preporuka_vozila" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-13" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="600" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-10" parent="FAdu7yA-0AXUuAB9ZVep-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Informacije_o_musteriji" vertex="1">
+          <mxGeometry height="30" width="60" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-11" edge="1" parent="FAdu7yA-0AXUuAB9ZVep-13" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-12" edge="1" parent="FAdu7yA-0AXUuAB9ZVep-13" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint x="130" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="belezenje_informacija" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-17" edge="1" parent="1" source="FAdu7yA-0AXUuAB9ZVep-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="FAdu7yA-0AXUuAB9ZVep-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pokvareno vozilo" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="odlazak_na_servis" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Popravljeno vozilo" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="popravka" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-23" edge="1" parent="1" source="FAdu7yA-0AXUuAB9ZVep-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="FAdu7yA-0AXUuAB9ZVep-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pravila o saobracaju" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="FAdu7yA-0AXUuAB9ZVep-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="provera_sposobnosti_musterije" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
